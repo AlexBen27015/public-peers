@@ -6,3 +6,4 @@
 | 2         | ![](https://img.shields.io/badge/доступен-brightgreen.svg)   | 55.056516 | 38.748427 | [Google Maps](https://www.google.com/maps/place/55°03'23.5"N+38°44'54.3"E)
 | 3         | ![](https://img.shields.io/badge/доступен-brightgreen.svg)   | 55.089780 | 38.771462 | [Google Maps](https://www.google.com/maps/place/55°05'23.2"N+38°46'17.3"E)
 | 4         | ![](https://img.shields.io/badge/частично-yellow.svg)     | 55.064966 | 38.752203 | [Google Maps](https://www.google.com/maps/place/55°03'53.9"N+38°45'07.9"E)
+| 5         | ![](https://img.shields.io/badge/доступен-brightgreen.svg)     |  55.062806 | 38.754500 | [Google Maps](https://www.google.com/maps/place/55°03'46.1"N+38°45'16.2"E)
